@@ -8,7 +8,7 @@ A list of my skills and proof.
 | 2.                                                             | Design Patterns                                             | [Link](https://github.com/ajaygunalan/designPattern/tree/main)               |
 | 3. Motion Planning Simulation of Robotic arm                   | ROS, Gazebo, MoveIt                                         | [Link](https://github.com/ajaygunalan/robotic_arm)                           |
 | 4. Basic Circuit Design & Simulation                           | Ki-CAD & TINA-TI                                            | [Link](https://github.com/ajaygunalan/KiCAD-and-TINA-TI)                     |
-| 5. Actuators for dexterous and agile robots                    | Quasi Direct Drive, Compliance, Mechatronic  Architecture   |                                                                              |
+| 5. Actuators for dexterous and agile robots                    | Quasi Direct Drive, Compliance, Mechatronic  Architecture   | [Link](https://ajaygunalan.com/projects/past/motor.html)                                                                             |
 | **MATLAB**                                                     |                                                             |                                                                              |
 | 1. Faster Sampling of Medical Images. (Less Storage)           | Image Reconstruction: Compressive Sensing/Tailored Sensing) | [Link](https://github.com/ajaygunalan/fastCS/blob/main/ContiTailored.m)      |
 | **C++**                                                        |                                                             |                                                                              |
